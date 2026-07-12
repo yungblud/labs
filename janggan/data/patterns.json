@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "gu": [
+      "deong",
+      "kung",
+      "deok",
+      "gideok",
+      "roll"
+    ],
+    "note": "연구용 양식화 근사치. 정확한 채보 아님. build_dataset.py 로 생성. 규칙=NOTATION.md."
+  },
+  "patterns": [
+    {
+      "name": "gutgeori",
+      "variant": "basic",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v1",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          "roll",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v2",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "kung",
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v3",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "deok"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v4",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          "kung",
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v5",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          null
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v6",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          null,
+          "deok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v7",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          "deok",
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "gutgeori",
+      "variant": "v8",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          null,
+          "roll"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          "deok",
+          "roll"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "basic",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v1",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v2",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v3",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "gideok"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v4",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "gideok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v5",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "kung",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v6",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "gideok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v7",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "jajinmori",
+      "variant": "v8",
+      "beats": 4,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "gideok",
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "basic",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v1",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "gideok"
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v2",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "gideok",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v3",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v4",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v5",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v6",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          "kung",
+          "kung"
+        ],
+        [
+          "deok",
+          null,
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "semachi",
+      "variant": "v7",
+      "beats": 3,
+      "subdivisions": 3,
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "gideok",
+          "kung"
+        ],
+        [
+          "deong",
+          "deok",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "basic",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v1",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "deok",
+          "deok"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v2",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          "gideok",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v3",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "gideok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v4",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          "gideok",
+          "gideok"
+        ],
+        [
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v5",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v6",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          "kung",
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "deok",
+          "kung"
+        ]
+      ]
+    },
+    {
+      "name": "eotmori",
+      "variant": "v7",
+      "beats": 4,
+      "subdivisions": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "grid": [
+        [
+          "deong",
+          null,
+          "kung"
+        ],
+        [
+          "deok",
+          "kung"
+        ],
+        [
+          "deong",
+          null,
+          "gideok"
+        ],
+        [
+          "kung",
+          "deok"
+        ]
+      ]
+    }
+  ]
+}

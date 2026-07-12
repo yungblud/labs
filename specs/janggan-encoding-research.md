@@ -84,9 +84,9 @@
 - [x] Python 환경 + 최소 의존(numpy 2.5.1, torch 2.13.0, mido 1.3.3) 세팅 — `janggan/.venv` (T7 외장, MPS 사용 가능)
 - [x] 코드 디렉터리 확정 — `janggan/` (스펙 `specs/` ↔ 코드 `janggan/`), 계획 구조는 `janggan/README.md`
 
-### 2단계 · 데이터 제작 (연구 ①)
-- [ ] 장단 3~5종 선정 + 구음/타점 표기 규칙 문서화
-- [ ] 손코딩 20~50 시퀀스 → 중립 중간표현(JSON) 으로 저장
+### 2단계 · 데이터 제작 (연구 ①) ✅
+- [x] 장단 4종 선정(굿거리·자진모리·세마치·**엇모리** 3+2+3+2 비대칭) + 표기 규칙 `data/NOTATION.md` (구음 5종·박×위치 그리드·shorthand)
+- [x] 손저작 34 시퀀스 → `data/patterns.json` (재현 빌더 `data/build_dataset.py`, 무결성 검증 0위반)
 
 ### 3단계 · 인코딩 2종 (연구 ②)
 - [ ] `encode_v1()` (flat/duration) 구현
