@@ -80,9 +80,9 @@
 
 ## 체크리스트 (스텝별 — 각 스텝 후 다음 선언)
 
-### 1단계 · 환경·뼈대
-- [ ] Python 환경 + 최소 의존(numpy, torch, (선택) mido) 세팅
-- [ ] 코드 디렉터리 확정 (`specs/` 스펙 ↔ 코드, 예: `janggan/`)
+### 1단계 · 환경·뼈대 ✅
+- [x] Python 환경 + 최소 의존(numpy 2.5.1, torch 2.13.0, mido 1.3.3) 세팅 — `janggan/.venv` (T7 외장, MPS 사용 가능)
+- [x] 코드 디렉터리 확정 — `janggan/` (스펙 `specs/` ↔ 코드 `janggan/`), 계획 구조는 `janggan/README.md`
 
 ### 2단계 · 데이터 제작 (연구 ①)
 - [ ] 장단 3~5종 선정 + 구음/타점 표기 규칙 문서화
