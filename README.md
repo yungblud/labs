@@ -11,10 +11,16 @@
 - 스펙: [`specs/janggan-encoding-research.md`](./specs/janggan-encoding-research.md)
 - 후보 비교·재사용 레시피: [`specs/music-ai-encoding-toys.md`](./specs/music-ai-encoding-toys.md)
 
+### janggan-ts — 위 실험의 TypeScript 이식
+- 순수 TS(인코딩·데이터·지표) + `@tensorflow/tfjs-node`(from-scratch 학습)
+- 순수 TS 부분은 파이썬과 **바이트 동일**. 약한 TS 모델에선 **v2 구조 이점이 드러남**(파이썬엔 없던 관찰)
+- 코드·실행법: [`janggan-ts/README.md`](./janggan-ts/README.md)
+
 ## 구조
 
 ```
 labs/
-├── specs/     # 각 실험의 목표·설계·체크리스트
-└── <toy>/     # 실험별 코드 (예정)
+├── specs/        # 각 실험의 목표·설계·체크리스트
+├── janggan/      # 실험 코드 (Python)
+└── janggan-ts/   # 같은 실험의 TypeScript 이식
 ```

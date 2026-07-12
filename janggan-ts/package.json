@@ -1,0 +1,24 @@
+{
+  "name": "janggan-ts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "장단 인코딩 실험 — janggan(파이썬)의 TypeScript 이식",
+  "scripts": {
+    "build:data": "tsx src/buildDataset.ts",
+    "encode": "tsx src/encode.ts",
+    "train": "tsx src/train.ts",
+    "compare": "tsx src/compare.ts"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["@tensorflow/tfjs-node", "esbuild"]
+  }
+}
