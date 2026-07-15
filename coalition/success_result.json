@@ -1,0 +1,924 @@
+{
+  "theta": 6.5,
+  "n": 500,
+  "horizon": 40,
+  "target": {
+    "religion": 0.25,
+    "nativism": 0.6,
+    "market_dereg": 0.75,
+    "state_order": 0.9
+  },
+  "baseline": {
+    "capture": 7.54,
+    "fracture_t": 10,
+    "success": true,
+    "peak_prox": 0.764,
+    "timeline": [
+      {
+        "t": 0,
+        "s": {
+          "china": 1.0,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 0.764
+      },
+      {
+        "t": 1,
+        "s": {
+          "china": 1.0,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 1.529
+      },
+      {
+        "t": 2,
+        "s": {
+          "china": 1.0,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 2.293
+      },
+      {
+        "t": 3,
+        "s": {
+          "china": 1.0,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 3.057
+      },
+      {
+        "t": 4,
+        "s": {
+          "china": 1.0,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 3.821
+      },
+      {
+        "t": 5,
+        "s": {
+          "china": 0.835,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 4.586
+      },
+      {
+        "t": 6,
+        "s": {
+          "china": 0.698,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.512,
+          "nativism": 0.734,
+          "market_dereg": 0.622,
+          "state_order": 0.554
+        },
+        "proximity": 0.764,
+        "capture_cum": 5.35
+      },
+      {
+        "t": 7,
+        "s": {
+          "china": 0.583,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.614,
+          "nativism": 0.8,
+          "market_dereg": 0.529,
+          "state_order": 0.641
+        },
+        "proximity": 0.731,
+        "capture_cum": 6.081
+      },
+      {
+        "t": 8,
+        "s": {
+          "china": 0.487,
+          "cultural": 1.0
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.614,
+          "nativism": 0.8,
+          "market_dereg": 0.529,
+          "state_order": 0.641
+        },
+        "proximity": 0.731,
+        "capture_cum": 6.813
+      },
+      {
+        "t": 9,
+        "s": {
+          "china": 0.407,
+          "cultural": 0.887
+        },
+        "winning": true,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "center": {
+          "religion": 0.614,
+          "nativism": 0.8,
+          "market_dereg": 0.529,
+          "state_order": 0.641
+        },
+        "proximity": 0.731,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 10,
+        "s": {
+          "china": 0.34,
+          "cultural": 0.787
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 11,
+        "s": {
+          "china": 0.284,
+          "cultural": 0.698
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 12,
+        "s": {
+          "china": 0.237,
+          "cultural": 0.619
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 13,
+        "s": {
+          "china": 0.198,
+          "cultural": 0.549
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 14,
+        "s": {
+          "china": 0.165,
+          "cultural": 0.487
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 15,
+        "s": {
+          "china": 0.138,
+          "cultural": 0.432
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 16,
+        "s": {
+          "china": 0.115,
+          "cultural": 0.383
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 17,
+        "s": {
+          "china": 0.096,
+          "cultural": 0.34
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 18,
+        "s": {
+          "china": 0.08,
+          "cultural": 0.301
+        },
+        "winning": false,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.779,
+          "nativism": 0.886,
+          "market_dereg": 0.421,
+          "state_order": 0.521
+        },
+        "proximity": 0.609,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 19,
+        "s": {
+          "china": 0.067,
+          "cultural": 0.267
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 20,
+        "s": {
+          "china": 0.056,
+          "cultural": 0.237
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 21,
+        "s": {
+          "china": 0.047,
+          "cultural": 0.21
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 22,
+        "s": {
+          "china": 0.039,
+          "cultural": 0.186
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 23,
+        "s": {
+          "china": 0.033,
+          "cultural": 0.165
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 24,
+        "s": {
+          "china": 0.027,
+          "cultural": 0.147
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 25,
+        "s": {
+          "china": 0.023,
+          "cultural": 0.13
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 26,
+        "s": {
+          "china": 0.019,
+          "cultural": 0.115
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 27,
+        "s": {
+          "china": 0.016,
+          "cultural": 0.102
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 28,
+        "s": {
+          "china": 0.013,
+          "cultural": 0.091
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 29,
+        "s": {
+          "china": 0.011,
+          "cultural": 0.08
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 30,
+        "s": {
+          "china": 0.009,
+          "cultural": 0.071
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 31,
+        "s": {
+          "china": 0.008,
+          "cultural": 0.063
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 32,
+        "s": {
+          "china": 0.006,
+          "cultural": 0.056
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 33,
+        "s": {
+          "china": 0.005,
+          "cultural": 0.05
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 34,
+        "s": {
+          "china": 0.005,
+          "cultural": 0.044
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 35,
+        "s": {
+          "china": 0.004,
+          "cultural": 0.039
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 36,
+        "s": {
+          "china": 0.003,
+          "cultural": 0.035
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 37,
+        "s": {
+          "china": 0.003,
+          "cultural": 0.031
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 38,
+        "s": {
+          "china": 0.002,
+          "cultural": 0.027
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      },
+      {
+        "t": 39,
+        "s": {
+          "china": 0.002,
+          "cultural": 0.024
+        },
+        "winning": false,
+        "members": [
+          "MAGA-populist"
+        ],
+        "center": {
+          "religion": 0.65,
+          "nativism": 0.95,
+          "market_dereg": 0.4,
+          "state_order": 0.5
+        },
+        "proximity": 0.624,
+        "capture_cum": 7.544
+      }
+    ]
+  },
+  "regimes": [
+    {
+      "regime": "궤적-only",
+      "n": 500,
+      "p_success": 0.822,
+      "var_success": 0.1463,
+      "capture": {
+        "min": 3.02,
+        "median": 9.26,
+        "mean": 9.45,
+        "max": 18.25
+      },
+      "peak_prox_mean": 0.778,
+      "win_steps_mean": 12.4
+    },
+    {
+      "regime": "구조-only",
+      "n": 500,
+      "p_success": 0.726,
+      "var_success": 0.1989,
+      "capture": {
+        "min": 0.0,
+        "median": 7.5,
+        "mean": 7.51,
+        "max": 15.53
+      },
+      "peak_prox_mean": 0.752,
+      "win_steps_mean": 10.0
+    },
+    {
+      "regime": "둘다",
+      "n": 500,
+      "p_success": 0.762,
+      "var_success": 0.1814,
+      "capture": {
+        "min": 0.0,
+        "median": 9.22,
+        "mean": 9.32,
+        "max": 23.69
+      },
+      "peak_prox_mean": 0.763,
+      "win_steps_mean": 12.3
+    }
+  ],
+  "theta_curve": [
+    {
+      "theta": 4.0,
+      "traj_only": 0.986,
+      "struct_only": 0.96,
+      "both": 0.944
+    },
+    {
+      "theta": 5.0,
+      "traj_only": 0.956,
+      "struct_only": 0.91,
+      "both": 0.892
+    },
+    {
+      "theta": 5.5,
+      "traj_only": 0.882,
+      "struct_only": 0.842,
+      "both": 0.842
+    },
+    {
+      "theta": 6.0,
+      "traj_only": 0.876,
+      "struct_only": 0.782,
+      "both": 0.808
+    },
+    {
+      "theta": 6.5,
+      "traj_only": 0.822,
+      "struct_only": 0.726,
+      "both": 0.762
+    },
+    {
+      "theta": 7.0,
+      "traj_only": 0.766,
+      "struct_only": 0.61,
+      "both": 0.694
+    },
+    {
+      "theta": 7.5,
+      "traj_only": 0.748,
+      "struct_only": 0.498,
+      "both": 0.666
+    },
+    {
+      "theta": 8.0,
+      "traj_only": 0.66,
+      "struct_only": 0.398,
+      "both": 0.616
+    }
+  ],
+  "failure_attribution": {
+    "window": 0.178,
+    "structure": 0.274,
+    "dominant": "구조(structure)"
+  }
+}
