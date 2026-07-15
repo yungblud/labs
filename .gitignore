@@ -25,3 +25,5 @@ wandb/
 .DS_Store
 .vscode/
 .idea/
+
+.omc/
