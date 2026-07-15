@@ -1,0 +1,1889 @@
+{
+  "params": {
+    "w": 1.5,
+    "win_threshold": 0.5,
+    "total_mass": 7.6,
+    "win_mass_needed": 3.8,
+    "axes": [
+      "religion",
+      "nativism",
+      "market_dereg",
+      "state_order"
+    ],
+    "threats": [
+      "china",
+      "cultural"
+    ]
+  },
+  "joint": {
+    "axis": "joint",
+    "fracture_s": 0.52,
+    "exit_order": [
+      {
+        "name": "Crypto",
+        "exit_s": 1.0
+      },
+      {
+        "name": "Musk/DOGE",
+        "exit_s": 0.8
+      },
+      {
+        "name": "Thiel/NatCon",
+        "exit_s": 0.52
+      },
+      {
+        "name": "Karp/Palantir",
+        "exit_s": 0.52
+      },
+      {
+        "name": "Evangelical",
+        "exit_s": 0.24
+      },
+      {
+        "name": "MAGA-populist",
+        "exit_s": null
+      }
+    ],
+    "records": [
+      {
+        "s": 1.0,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.98,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.96,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.94,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.92,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.9,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.88,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.86,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.84,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.82,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.8,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.78,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.76,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.74,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.72,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.7,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.68,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.66,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.64,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.62,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.6,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.58,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.56,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.54,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.52,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.5,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.48,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.46,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.44,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.42,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.4,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.38,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.36,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.34,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.32,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.3,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.28,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.26,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.24,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.22,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.2,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.18,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.16,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.14,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.12,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.1,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.08,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.06,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.04,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.02,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      },
+      {
+        "s": 0.0,
+        "members": [
+          "MAGA-populist"
+        ],
+        "n_members": 1,
+        "total_mass": 2.0,
+        "winning": false
+      }
+    ]
+  },
+  "china": {
+    "axis": "china",
+    "fracture_s": 0.28,
+    "exit_order": [
+      {
+        "name": "Crypto",
+        "exit_s": 1.0
+      },
+      {
+        "name": "Musk/DOGE",
+        "exit_s": 0.68
+      },
+      {
+        "name": "Thiel/NatCon",
+        "exit_s": 0.28
+      },
+      {
+        "name": "Karp/Palantir",
+        "exit_s": 0.28
+      },
+      {
+        "name": "Evangelical",
+        "exit_s": null
+      },
+      {
+        "name": "MAGA-populist",
+        "exit_s": null
+      }
+    ],
+    "records": [
+      {
+        "s": 1.0,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.98,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.96,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.94,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.92,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.9,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.88,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.86,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.84,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.82,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.8,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.78,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.76,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.74,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.72,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.7,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.68,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.66,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.64,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.62,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.6,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.58,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.56,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.54,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.52,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.5,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.48,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.46,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.44,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.42,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.4,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.38,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.36,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.34,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.32,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.3,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.28,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.26,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.24,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.22,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.2,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.18,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.16,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.14,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.12,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.1,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.08,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.06,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.04,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.02,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      },
+      {
+        "s": 0.0,
+        "members": [
+          "Evangelical",
+          "MAGA-populist"
+        ],
+        "n_members": 2,
+        "total_mass": 3.5,
+        "winning": false
+      }
+    ]
+  },
+  "cultural": {
+    "axis": "cultural",
+    "fracture_s": 0.24,
+    "exit_order": [
+      {
+        "name": "Crypto",
+        "exit_s": 1.0
+      },
+      {
+        "name": "Evangelical",
+        "exit_s": 0.54
+      },
+      {
+        "name": "MAGA-populist",
+        "exit_s": 0.24
+      },
+      {
+        "name": "Thiel/NatCon",
+        "exit_s": null
+      },
+      {
+        "name": "Musk/DOGE",
+        "exit_s": null
+      },
+      {
+        "name": "Karp/Palantir",
+        "exit_s": null
+      }
+    ],
+    "records": [
+      {
+        "s": 1.0,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.98,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.96,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.94,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.92,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.9,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.88,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.86,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.84,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.82,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.8,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.78,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.76,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.74,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.72,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.7,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.68,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.66,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.64,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.62,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.6,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.58,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.56,
+        "members": [
+          "Evangelical",
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 5,
+        "total_mass": 6.8,
+        "winning": true
+      },
+      {
+        "s": 0.54,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.52,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.5,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.48,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.46,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.44,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.42,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.4,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.38,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.36,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.34,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.32,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.3,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.28,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.26,
+        "members": [
+          "MAGA-populist",
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 4,
+        "total_mass": 5.3,
+        "winning": true
+      },
+      {
+        "s": 0.24,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.22,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.2,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.18,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.16,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.14,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.12,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.1,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.08,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.06,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.04,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.02,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      },
+      {
+        "s": 0.0,
+        "members": [
+          "Thiel/NatCon",
+          "Musk/DOGE",
+          "Karp/Palantir"
+        ],
+        "n_members": 3,
+        "total_mass": 3.3,
+        "winning": false
+      }
+    ]
+  }
+}

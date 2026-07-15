@@ -1,0 +1,121 @@
+{
+  "w_grid": [
+    {
+      "w": 0.5,
+      "joint_collapses": true,
+      "mirror_holds": false,
+      "china_down_survivors": [
+        "Evangelical",
+        "MAGA-populist",
+        "Thiel/NatCon",
+        "Musk/DOGE",
+        "Karp/Palantir"
+      ],
+      "cultural_down_survivors": [
+        "Evangelical",
+        "MAGA-populist",
+        "Thiel/NatCon",
+        "Musk/DOGE",
+        "Karp/Palantir",
+        "Crypto"
+      ]
+    },
+    {
+      "w": 1.0,
+      "joint_collapses": true,
+      "mirror_holds": true,
+      "china_down_survivors": [
+        "Evangelical",
+        "MAGA-populist",
+        "Thiel/NatCon",
+        "Karp/Palantir"
+      ],
+      "cultural_down_survivors": [
+        "MAGA-populist",
+        "Thiel/NatCon",
+        "Musk/DOGE",
+        "Karp/Palantir"
+      ]
+    },
+    {
+      "w": 1.5,
+      "joint_collapses": true,
+      "mirror_holds": true,
+      "china_down_survivors": [
+        "Evangelical",
+        "MAGA-populist"
+      ],
+      "cultural_down_survivors": [
+        "Thiel/NatCon",
+        "Musk/DOGE",
+        "Karp/Palantir"
+      ]
+    },
+    {
+      "w": 2.0,
+      "joint_collapses": true,
+      "mirror_holds": true,
+      "china_down_survivors": [
+        "Evangelical",
+        "MAGA-populist"
+      ],
+      "cultural_down_survivors": [
+        "Thiel/NatCon",
+        "Musk/DOGE",
+        "Karp/Palantir"
+      ]
+    },
+    {
+      "w": 2.5,
+      "joint_collapses": true,
+      "mirror_holds": true,
+      "china_down_survivors": [
+        "Evangelical",
+        "MAGA-populist"
+      ],
+      "cultural_down_survivors": [
+        "Thiel/NatCon",
+        "Karp/Palantir"
+      ]
+    },
+    {
+      "w": 3.0,
+      "joint_collapses": true,
+      "mirror_holds": true,
+      "china_down_survivors": [
+        "Evangelical",
+        "MAGA-populist"
+      ],
+      "cultural_down_survivors": [
+        "Thiel/NatCon",
+        "Karp/Palantir"
+      ]
+    }
+  ],
+  "monte_carlo": [
+    {
+      "sigma": 0.05,
+      "n": 1000,
+      "joint_collapse_rate": 1.0,
+      "mirror_hold_rate": 0.745
+    },
+    {
+      "sigma": 0.1,
+      "n": 1000,
+      "joint_collapse_rate": 1.0,
+      "mirror_hold_rate": 0.668
+    },
+    {
+      "sigma": 0.15,
+      "n": 1000,
+      "joint_collapse_rate": 1.0,
+      "mirror_hold_rate": 0.623
+    },
+    {
+      "sigma": 0.2,
+      "n": 1000,
+      "joint_collapse_rate": 1.0,
+      "mirror_hold_rate": 0.589
+    }
+  ]
+}
